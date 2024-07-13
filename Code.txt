@@ -1,5 +1,4 @@
-FORK of [ https://www.kaggle.com/stefankahl/birdclef2021-model-training ].
-Inference notebook [ https://www.kaggle.com/virajkadam/birdclef-inference ]
+
 
 Model training¶
 In this notebook, we will train our first model and apply this model to a soundscape. We will keep the amount of training samples, species and soundscapes to a minimum to keep the execution time as short as possible. Remember, this is only a sample implementation, feel free to explore your own workflow.
